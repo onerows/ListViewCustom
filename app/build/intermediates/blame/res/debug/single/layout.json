@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/build/intermediates/res/merged/debug/layout/city_row_item.xml",
+        "source": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/layout/city_row_item.xml"
+    },
+    {
+        "merged": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/build/intermediates/res/merged/debug/layout/city_list.xml",
+        "source": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/layout/city_list.xml"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 46,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 65,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 65,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

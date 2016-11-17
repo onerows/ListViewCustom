@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/build/intermediates/res/merged/debug/drawable/rome.png",
+        "source": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/drawable/rome.png"
+    },
+    {
+        "merged": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/build/intermediates/res/merged/debug/drawable/paris.png",
+        "source": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/drawable/paris.png"
+    },
+    {
+        "merged": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/build/intermediates/res/merged/debug/drawable/london.png",
+        "source": "/Users/thomaslysaght/Lectures/CS385/2016/Labs/ListViewCustom/app/src/main/res/drawable/london.png"
+    }
+]
